@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-guide",
+  "version": "1.0.0",
+  "description": "Free guide to get started with OpenClaw in 30 minutes",
+  "private": true,
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "start": "python -m http.server 3000"
+  }
+}
